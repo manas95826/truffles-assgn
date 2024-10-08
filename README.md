@@ -66,3 +66,7 @@ bank_statement_analyzer/
 - Streamlit
 - Qdrant (for document storage)
 - Anthropic API client
+
+# Way to increase context problem:
+
+Please move to my langgraph repo from here: https://github.com/manas95826/context-outperform-truffles

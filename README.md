@@ -34,11 +34,11 @@ bank_statement_analyzer/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/manas95826/truffles-assgn
    ```
 2. Navigate to the project directory:
    ```bash
-   cd bank_statement_analyzer
+   cd truffles-assgn
    ```
 3. Install the required dependencies:
    ```bash

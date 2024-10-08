@@ -11,6 +11,9 @@ The **Bank Statement Analyzer** is a Streamlit application that allows users to 
 - Analyze the extracted data using the Anthropic API.
 - Intuitive user interface with real-time data visualization.
 
+  ![image](https://github.com/user-attachments/assets/86599084-814f-423a-b948-9254d22757bc)
+
+
 ## Directory Structure
 
 ```

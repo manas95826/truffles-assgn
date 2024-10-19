@@ -1,4 +1,4 @@
-# app.py
+
 import streamlit as st
 from services.qdrant_service import QdrantService
 from services.anthropic_service import AnthropicService
